@@ -25,7 +25,7 @@
 <p align="center">$\color{#dd047c}{\textsf{trippy ﾉ harleii :D}}$
 <p align="center">$\color{#bc0a3a}{\textsf{3teen ! c: }}$
 <p align="center">$\color{#bd090e}{\textsf{infp .. :< }}$
-<p align="center">$\color{#75000b}{\textsf{all art used is by me!}}$
+<p align="center">$\color{#75000b}{\textsf{interbinary !!}}$
 
       
 <p align="center">
