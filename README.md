@@ -1,34 +1,10 @@
-<p align="center">$\color{#e77a7f}{\textsf{this was an excuse to make an account dedicated to tripwire aka... ME!}}$
 <div align="center">
       <br>
    <div align="center">
-<details>
-<summary></summary>
-   <br>
-<p align="left">
-<ins><b><em><tr><td><br> </em></b></ins>
 
-<table border="3">
-     <tr>
-       <td>
-         <br>
+![](https://file.garden/aRJiOL-RcxklS7T1/amy%20and%20kirby?v=1784873996595)
 
-<p align="center">
-      
-![](https://64.media.tumblr.com/ec7c1536343f566c7a71a28a0a93e211/1fa5da952d8025bb-65/s400x600/c1bbbe0c164b153b4a9be516d881cda4037fffef.pnj) 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Honk&pause=1000&color=FF0202&width=435&lines=%E2%80%9C+I'm+not+just+a+damsel+in+distress+anymore!+%E2%80%9E;%E2%80%9C+Just+you+watch.+Eventually+.+.+.+%E2%80%9E;%E2%80%9C+you'll+be+the+one+relying+on+me+for+help!+%E2%80%9E" alt="Typing SVG" /></a>
 
-
-<p align="center">
-      
-![](https://file.garden/aRJiOL-RcxklS7T1/valentines?v=1784244138478) 
-
-<p align="center">$\color{#dd047c}{\textsf{trippy ﾉ harleii :D}}$
-<p align="center">$\color{#bc0a3a}{\textsf{3teen ! c: }}$
-<p align="center">$\color{#bd090e}{\textsf{infp .. :< }}$
-<p align="center">$\color{#75000b}{\textsf{interbinary !!}}$
-
-      
-<p align="center">
-      
-![](https://64.media.tumblr.com/361a0159dd07b01dda4daa239b6ab069/1fa5da952d8025bb-a4/s400x600/62e655377f296ddd8f1c9dfc977081e5a2126c5e.pnj)
-
+$\color{yellow}{\textsf{readme in wip}}$
+   <p align="center">$\color{red}{\textsf{sobs}}$
